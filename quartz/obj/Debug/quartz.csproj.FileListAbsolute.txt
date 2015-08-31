@@ -1,0 +1,14 @@
+G:\RibitMq\quartzdemo\quartz\bin\Debug\quartz.exe
+G:\RibitMq\quartzdemo\quartz\bin\Debug\quartz.pdb
+G:\RibitMq\quartzdemo\quartz\bin\Debug\Common.Logging.Core.dll
+G:\RibitMq\quartzdemo\quartz\bin\Debug\Common.Logging.dll
+G:\RibitMq\quartzdemo\quartz\bin\Debug\Quartz.dll
+G:\RibitMq\quartzdemo\quartz\bin\Debug\Common.Logging.pdb
+G:\RibitMq\quartzdemo\quartz\bin\Debug\Common.Logging.xml
+G:\RibitMq\quartzdemo\quartz\bin\Debug\Common.Logging.Core.pdb
+G:\RibitMq\quartzdemo\quartz\bin\Debug\Common.Logging.Core.xml
+G:\RibitMq\quartzdemo\quartz\bin\Debug\Quartz.xml
+G:\RibitMq\quartzdemo\quartz\obj\Debug\quartz.csprojResolveAssemblyReference.cache
+G:\RibitMq\quartzdemo\quartz\obj\Debug\quartz.exe
+G:\RibitMq\quartzdemo\quartz\obj\Debug\quartz.pdb
+G:\RibitMq\quartzdemo\quartz\bin\Debug\quartz.exe.config
